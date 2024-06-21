@@ -1,0 +1,61 @@
+
+---------------------------------------------------------------------------------------------
+Senin, 12-11-2023
+
+- Melanjutkan redesain tab menu kontak
+
+- Medesain asset new dan populer untuk diterapkan bagian card
+
+- membuat efek pulsing pada titik dan menambahkan tulisan pada titik pada peta
+
+- menambahkan titik peta lebih banyak untuk berdasarkan kategori pada chip tempat ibadah, belanja dll
+
+- membuat fungsi untuk agar titik peta yang tampil hanya berdasarkan chip yang diklik dan efek pulsing hanya pada titik yang tampil
+
+---------------------------------------------------------------------------------------------
+Jumat, 10-11-2023
+
+-menerapkan card responsive yang benar ke card lainnya
+
+-memperbaiki bug pada detail favorit suara video masih aktif pada tab menu lainya
+
+-mengembalikan control layer yang berada pada kelompok my location
+
+-menambahkan efek animasi pulsing dan tulisan disamping titik pada peta
+
+-mendesain tampilan tab menu kontak
+
+-mengganti build tools dari npm menjadi vite dan memperbaiki kode yang perlu penyesuaian kode pada function
+
+-menunda proses desain tab menu kontak karna desain belum fix
+
+---------------------------------------------------------------------------------------------
+Kamis, 9-11-2023
+
+- memperbaiki video dan gambar pada card slider saat pertama kali diload tidak responsive dan dibuat function waktu jgn ditampilkan apabila resource belum ready
+
+- menerapkan semua function play dan stop video, default menu, reset menu serta class pada detail card dari beranda diterapakn ke favorit dan menulis ulang id sesuaikan kebutuhan agar mudah dikembangkan
+
+- menerapkan card pada peta dapat membuka dari detail card
+
+- fixed debugging detail card tidak sama ukurannya atau tidak responsive antara video dan gambar pada browser firefox dan chrome
+
+---------------------------------------------------------------------------------------------
+Rabu, 8-11-2023
+
+- Memperbaiki debugging sarana dan prasaran fungsi tidak berjalan karna terdapat id yg sama
+- fixed kode yang hilang fungsi aktif dan nonaktif button pada peta
+
+- menambahkan tooltips pada semua button mapbox control peta
+
+- Merevisi ukuran pada control stick dan location di control button peta
+
+- mengganti url resource data titik peta
+
+- mengganti icon soaraja dan menambahkan icon pada title
+
+- mengganti warna pad judul, button terapkan dan simpan pencarian
+
+- fixed debugging play video otomatis hanya pada menu tampak ruang, membuat stop otomatis pada menu lainnya, dan membuat default agar setiap membuka detail selalu mengarah ke menu tampak ruan
+
+-----------------------------------------------------------------------------------------

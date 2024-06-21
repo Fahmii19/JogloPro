@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1607,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.82370847853305, -6.206184113401858]
+      },
+      "properties": {
+        "OBJECTID": 1607,
+        "kategori": "Belanja",
+        "sumber_data": "Toko 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1608,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.82566112659902, -6.20564014929476]
+      },
+      "properties": {
+        "OBJECTID": 1608,
+        "kategori": "Belanja",
+        "sumber_data": "Toko 2"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "id": 1676,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.8298774395393, -6.21187683292648]
+      },
+      "properties": {
+        "OBJECTID": 1644,
+        "kategori": "Ibadah",
+        "sumber_data": "Masjid 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1677,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.82323640992199, -6.207741340903282]
+      },
+      "properties": {
+        "OBJECTID": 1611,
+        "kategori": "Ibadah",
+        "sumber_data": "Masjid 2"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "id": 1613,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.82612246661766, -6.203090976671641]
+      },
+      "properties": {
+        "OBJECTID": 1613,
+        "kategori": "Transportasi",
+        "sumber_data": "Halte 1"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "id": 1677,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.82819778970318, -6.207261081866808]
+      },
+      "properties": {
+        "OBJECTID": 1677,
+        "kategori": "Transportasi",
+        "sumber_data": "Halte 2"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "id": 1648,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.82809050134792, -6.208199683361217]
+      },
+      "properties": {
+        "OBJECTID": 1648,
+        "kategori": "Transportasi",
+        "sumber_data": "Halte 3"
+      }
+    }
+  ]
+}
